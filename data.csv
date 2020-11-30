@@ -1,0 +1,11 @@
+name,country,region,grape_varietal,wine_type,bottle_price,sale_price
+ Vendange Chardonnay,United States,California,Chardonnay,Still wine,$9.99,$8.99
+ Vendange Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$9.99,$8.99
+ House Wine Red,United States,Washington,Non-Varietal Red Blend,Still wine,$12.99,$8.99
+ House Wine Pinot Noir,United States,California,Pinot Noir,Still wine,$17.99,$14.99
+ House Wine Chardonnay,United States,California,Chardonnay,Still wine,$17.99,$14.99
+,,,,,,
+ House Wine Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$17.99,$14.99
+ Livingston Cellars Rhine Wine,United States,California,Other White,Still wine,$14.99,$13.99
+ Vendange White Zinfandel,United States,California,Zinfandel,Still wine,$10.99,$8.99
+,,,,,,
