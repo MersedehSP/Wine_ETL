@@ -1,11 +1,11 @@
 name,country,region,grape_varietal,wine_type,bottle_price,sale_price
- Vendange Chardonnay,United States,California,Chardonnay,Still wine,$9.99,$8.99
- Vendange Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$9.99,$8.99
- House Wine Red,United States,Washington,Non-Varietal Red Blend,Still wine,$12.99,$8.99
- House Wine Pinot Noir,United States,California,Pinot Noir,Still wine,$17.99,$14.99
- House Wine Chardonnay,United States,California,Chardonnay,Still wine,$17.99,$14.99
+ Kendall-Jackson Vintner's Reserve Chardonnay,United States,California,Chardonnay,Still wine,$16.99,$12.09
+ Menage A Trois Red,United States,California,"Cabernet Sauvignon,Merlot,Zinfandel",Still wine,$12.99,$9.99
+ Los Haroldos Reserva Malbec 2017,Argentina,Cuyo,Mendoza,Uco Valley,$17.99,$9.99
+ 337 Cabernet Sauvignon,United States,California,Central Valley,Lodi,$13.99,
+ J. Lohr Cabernet Sauvignon Seven Oaks,United States,California,San Luis Obispo,Paso Robles,$17.99,$13.39
+ Oyster Bay Sauvignon Blanc,New Zealand,Marlborough,Sauvignon Blanc,Still wine,$15.99,$11.09
+ Josh Cabernet Sauvignon,United States,California,North Coast,Cabernet Sauvignon,$17.99,$13.09
+ Castellani Chianti Classico Riserva 2015,Italy,Tuscany,Chianti,Chianti Classico,$14.99,$9.99
 ,,,,,,
- House Wine Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$17.99,$14.99
- Livingston Cellars Rhine Wine,United States,California,Other White,Still wine,$14.99,$13.99
- Vendange White Zinfandel,United States,California,Zinfandel,Still wine,$10.99,$8.99
-,,,,,,
+ Martin Codax Rias Baixas Albarino,Spain,Galicia,Rias Baixas,Albarino,$14.99,$11.99
