@@ -1,11 +1,21 @@
 name,country,region,grape_varietal,wine_type,bottle_price,sale_price
- Kendall-Jackson Vintner's Reserve Chardonnay,United States,California,Chardonnay,Still wine,$16.99,$12.09
- Menage A Trois Red,United States,California,"Cabernet Sauvignon,Merlot,Zinfandel",Still wine,$12.99,$9.99
- Los Haroldos Reserva Malbec 2017,Argentina,Cuyo,Mendoza,Uco Valley,$17.99,$9.99
- 337 Cabernet Sauvignon,United States,California,Central Valley,Lodi,$13.99,
- J. Lohr Cabernet Sauvignon Seven Oaks,United States,California,San Luis Obispo,Paso Robles,$17.99,$13.39
- Oyster Bay Sauvignon Blanc,New Zealand,Marlborough,Sauvignon Blanc,Still wine,$15.99,$11.09
- Josh Cabernet Sauvignon,United States,California,North Coast,Cabernet Sauvignon,$17.99,$13.09
- Castellani Chianti Classico Riserva 2015,Italy,Tuscany,Chianti,Chianti Classico,$14.99,$9.99
+ Matua Sauvignon Blanc Marlborough,New Zealand,Marlborough,Sauvignon Blanc,Still wine,$13.69,$9.99
 ,,,,,,
- Martin Codax Rias Baixas Albarino,Spain,Galicia,Rias Baixas,Albarino,$14.99,$11.99
+,,,,,,
+ Amelia Brut Rose,France,Bordeaux,Bordeaux Blend,Sparkling,$20.29,$18.79
+,,,,,,
+,,,,,,
+ The Palm By Whispering Angel Rose',France,Provence,Red Rhone Blend,Still wine,$15.99,$13.99
+,,,,,,
+ Santa Margherita Pinot Grigio,Italy,Trentino-Alto Adige,Alto Adige,Pinot Gris,$32.99,$21.99
+,,,,,,
+,,,,,,
+ Apothic Red,United States,California,"Cabernet Sauvignon,Merlot,Syrah,Zinfandel",Still wine,$10.99,$9.97
+,,,,,,
+ Colosi Nero d' Avola,Italy,Sicily,Sicilia,Nero d'Avola,,$12.99
+,,,,,,
+,,,,,,
+,,,,,,
+ Noble Vines 337 Cabernet Sauvignon,United States,California,Central Valley,Lodi,$15.99,$11.97
+ Seaglass Pinot Grigio,United States,California,Santa Barbara County,Pinot Gris,$13.69,$9.99
+,,,,,,
