@@ -5,7 +5,7 @@
 
 CREATE TABLE "Wine" (
     "Name" VARCHAR(255)   NOT NULL,
-    "Points" Integer   NOT NULL,
+    "Price" Integer   NOT NULL,
     "Description" VARCHAR(255)   NOT NULL,
     "Merchant" VARCHAR(255)   NOT NULL,
     CONSTRAINT "pk_Wine" PRIMARY KEY (
