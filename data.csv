@@ -1,61 +1,11 @@
 name,country,region,grape_varietal,wine_type,bottle_price,sale_price
- Matua Sauvignon Blanc Marlborough,New Zealand,Marlborough,Sauvignon Blanc,Still wine,$13.69,$9.99
- Pascal Jolivet Sancerre,France,Loire,Central Vineyards,Sancerre,$29.99,$24.99
- William Hill Cabernet Sauvignon North Coast,United States,California,North Coast,Cabernet Sauvignon,$17.99,$12.99
- Amelia Brut Rose,France,Bordeaux,Bordeaux Blend,Sparkling,$20.29,$18.79
- Coppola Directors Cut Chardonnay Russian River,United States,California,Sonoma County,Russian River Valley,$21.99,$16.99
- Robert Mondavi Private Selection Cabernet Sauvignon,United States,California,Central Coast,Cabernet Sauvignon,$9.97,$8.97
- The Palm By Whispering Angel Rose',France,Provence,Red Rhone Blend,Still wine,$15.99,$13.99
- Bolla Soave,Italy,Veneto,Soave,"Garganega,Trebbiano",$18.49,$14.99
- Santa Margherita Pinot Grigio,Italy,Trentino-Alto Adige,Alto Adige,Pinot Gris,$32.99,$21.99
- Oyster Bay Sauvignon Blanc,New Zealand,Marlborough,Sauvignon Blanc,Still wine,$16.69,$11.99
- Rodney Strong Cabernet Sauvignon Sonoma,United States,California,Sonoma County,Cabernet Sauvignon,$22.19,$17.99
- Barefoot Pinot Grigio,United States,California,Pinot Gris,Still wine,$16.59,$11.99
- La Crema Russian River Valley Pinot Noir,United States,California,Sonoma County,Russian River Valley,$38.99,$29.99
- Peter Vella Bg/Bx Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$25.69,$17.99
- Chateau Bernadotte Haut Medoc 2016,France,Bordeaux,Haut Medoc,Bordeaux Blend,,$19.99
- Kendall Jackson Chardonnay Vinters Reserve,United States,California,Chardonnay,Still wine,$18.19,$12.99
- Apothic Red,United States,California,"Cabernet Sauvignon,Merlot,Syrah,Zinfandel",Still wine,$10.99,$9.97
- Robert Mondavi Woodbridge Merlot,United States,California,Merlot,Still wine,$18.19,$12.99
- Colosi Nero d' Avola,Italy,Sicily,Sicilia,Nero d'Avola,,$12.99
- Coppola Diamond Chardonnay,United States,California,Chardonnay,Still wine,$14.99,$11.99
- William Hill Chardonnay North Coast,United States,California,North Coast,Chardonnay,$17.99,$12.99
- Barefoot Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$16.59,$11.99
- Noble Vines 337 Cabernet Sauvignon,United States,California,Central Valley,Lodi,$15.99,$11.97
- Seaglass Pinot Grigio,United States,California,Santa Barbara County,Pinot Gris,$13.69,$9.99
- Corbett Canyon Pinot Grigio,United States,California,Pinot Gris,Still wine,,$8.99
- Robert Mondavi Woodbridge Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$18.19,$12.99
- Corbett Canyon Cabernet Sauv,United States,California,Cabernet Sauvignon,Still wine,,$8.99
- Ferrari Carano Merlot,United States,California,Sonoma County,Merlot,$22.99,$16.97
- Sycamore Lane Pinot Grigio,United States,California,Pinot Gris,Still wine,$5.99,$4.99
- Cono Sur Bicicleta Sauvignon Blanc,Chile,Valle Central,Sauvignon Blanc,Still wine,,$9.99
- Beringer White Zinfandel,United States,California,Zinfandel,Still wine,$13.49,$10.99
- Dark Horse Merlot,United States,California,Merlot,Still wine,$10.69,$7.98
- Kendall Jackson Chardonnay Grand Reserve,United States,California,Chardonnay,Still wine,$19.99,$14.99
-None,None,None,None,None,None,None
- Rombauer Chardonnay,United States,California,Carneros,Chardonnay,$52.69,$36.03
- La Crema Pinot Noir Sonoma,United States,California,Sonoma County,Sonoma Coast,$26.99,$19.99
- Dark Horse Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$10.69,$7.99
- Robert Mondavi Private Selection Bbn Brl Chardonnay,United States,California,Monterey County,Chardonnay,$18.19,$13.99
- Chateau Larose Trintaudon Haut Medoc Cru Bourgeois,France,Bordeaux,Haut Medoc,Bordeaux Blend,$22.99,$19.99
- Lindemans Moscato Bin 90,Australia,South Eastern Australia,Muscat Blanc A Petits Grains,Still wine,,$10.99
- Columbia Crest H3 Merlot,United States,Washington,Columbia Valley,Horse Heaven Hills,$18.19,$13.99
- Layer Cake Shiraz,Australia,South Australia,Syrah,Still wine,$19.69,$13.98
- Almaden Bag-In-A-Box Chardonnay,United States,California,Chardonnay,Still wine,$27.19,$18.99
- Louis Jadot Macon Villages Chardonnay,France,Burgundy,Maconnais,Macon Villages,$16.69,$12.99
- Chateau Beauchene Cote du Rhone Grand Reserve,France,Rhone,Cotes du Rhone,Red Rhone Blend,,$13.99
- Beringer White Zinfandel,United States,California,Zinfandel,Still wine,$13.49,$10.99
- Dark Horse Merlot,United States,California,Merlot,Still wine,$10.69,$7.98
- Kendall Jackson Chardonnay Grand Reserve,United States,California,Chardonnay,Still wine,$19.99,$14.99
-None,None,None,None,None,None,None
- Rombauer Chardonnay,United States,California,Carneros,Chardonnay,$52.69,$36.03
- La Crema Pinot Noir Sonoma,United States,California,Sonoma County,Sonoma Coast,$26.99,$19.99
- Dark Horse Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$10.69,$7.99
- Robert Mondavi Private Selection Bbn Brl Chardonnay,United States,California,Monterey County,Chardonnay,$18.19,$13.99
- Chateau Larose Trintaudon Haut Medoc Cru Bourgeois,France,Bordeaux,Haut Medoc,Bordeaux Blend,$22.99,$19.99
- Lindemans Moscato Bin 90,Australia,South Eastern Australia,Muscat Blanc A Petits Grains,Still wine,,$10.99
- Columbia Crest H3 Merlot,United States,Washington,Columbia Valley,Horse Heaven Hills,$18.19,$13.99
- Layer Cake Shiraz,Australia,South Australia,Syrah,Still wine,$19.69,$13.98
- Almaden Bag-In-A-Box Chardonnay,United States,California,Chardonnay,Still wine,$27.19,$18.99
- Louis Jadot Macon Villages Chardonnay,France,Burgundy,Maconnais,Macon Villages,$16.69,$12.99
- Chateau Beauchene Cote du Rhone Grand Reserve,France,Rhone,Cotes du Rhone,Red Rhone Blend,,$13.99
+ Kendall-Jackson Vintner's Reserve Chardonnay,United States,California,Chardonnay,Still wine,$16.99,$12.09
+ Menage A Trois Red,United States,California,"Cabernet Sauvignon,Merlot,Zinfandel",Still wine,$12.99,$9.99
+ Los Haroldos Reserva Malbec 2017,Argentina,Cuyo,Mendoza,Uco Valley,$17.99,$9.99
+ 337 Cabernet Sauvignon,United States,California,Central Valley,Lodi,$13.99,
+ Josh Cabernet Sauvignon,United States,California,North Coast,Cabernet Sauvignon,$17.99,$13.09
+ J. Lohr Cabernet Sauvignon Seven Oaks,United States,California,San Luis Obispo,Paso Robles,$17.99,$13.39
+ Castellani Chianti Classico Riserva 2015,Italy,Tuscany,Chianti,Chianti Classico,$14.99,$9.99
+ Kendall Jackson Avant Chardonnay,United States,California,Chardonnay,Still wine,$15.99,$11.99
+ Mondavi Private Select Bourbon Barrel-Aged Cabernet Sauvignon,United States,California,Cabernet Sauvignon,Still wine,$17.99,$12.99
+ Martin Codax Rias Baixas Albarino,Spain,Galicia,Rias Baixas,Albarino,$14.99,$11.99
