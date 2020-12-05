@@ -46,15 +46,15 @@ loaded all CSVs, checked for data type, converted price column from an object to
 
 brian_garyswine_json.ipynb
 
-- ​	produces garys_wine_real2.csv
+- ​	produces: garys_wine_real2.csv
 
 petrockswine.ipynb
 
-- ​	produces petrocks_wine_finall.csv
+- ​	produces: petrocks_wine_final.csv
 
 bottleking_scraper.ipynb
 
-- ​	produces chathambottlekingcleaned.csv
+- ​	produces: chathambottlekingcleaned.csv
 
 **Step2-** run the following notebook:
 
