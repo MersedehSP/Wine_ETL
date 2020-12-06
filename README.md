@@ -1,8 +1,6 @@
 # Wine_ETL
 
-
-
-#### ![wine1](Images\wine1.jpg)
+![wine1](Images/wine1.jpg)
 
 #### Extract:
 
