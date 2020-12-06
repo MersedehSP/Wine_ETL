@@ -1,5 +1,9 @@
 # Wine_ETL
 
+
+
+#### ![wine1](C:\Users\merse\Documents\Wine_ETL\Images\wine1.jpg)
+
 #### Extract:
 
 We extracted the wine info from the following  websites:
@@ -15,6 +19,8 @@ https://www.petrocksliquors.com/category_Wine
 https://garyswine.com/api/v1/products/search.json
 
 ​		 info extracted : name, country, region, state, varietal, price, description, merchant, address, age, sku, 		 type, subtype
+
+
 
 #### Transform:
 
