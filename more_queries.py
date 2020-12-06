@@ -42,3 +42,23 @@ ORDER BY "price" DESC
 LIMIT 50;
 
 SELECT * FROM "$15 Budget Wine";
+
+--AVG Wine Price per store & Total Wine bottle data/rows
+CREATE VIEW "AVG Wine Price Per Store" AS
+SELECT merchant_name, COUNT(merchant_name) AS "Merchant Count", ROUND(AVG(price),2)
+FROM merchant_wine
+INNER JOIN wine ON wine.wine_id = merchant_wine.wine_id
+GROUP BY merchant_name
+ORDER BY "Merchant Count" DESC;
+
+SELECT * FROM "AVG Wine Price Per Store";
+
+-- AVG Wine Count by country and avg price of bottle per country
+CREATE VIEW "AVG Wine Price by Country" AS
+SELECT country AS "Country", COUNT(country) AS "Country Count", ROUND(AVG(price),2) AS "AVG Price"
+FROM region
+INNER JOIN wine ON wine.region_id = region.region_id
+GROUP BY Country
+ORDER BY "Country Count" DESC;
+
+SELECT * FROM "AVG Wine Price by Country";
