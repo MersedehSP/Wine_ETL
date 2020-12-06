@@ -97,7 +97,7 @@ produces: wine.csv, merchant_wine.csv, merchant.csv and rergion.csv
 
 merchant.csv, region.csv, wine.csv, merchant_wine.csv
 
-Step 5 - running some queries:
+**Step 5** - running some queries:
 
 queries.sql
 
