@@ -28,3 +28,17 @@ ORDER BY "AVG Wine Price" DESC
 LIMIT 5;
 
 SELECT * FROM "Most Expansive Bottle";
+
+--Wine budget = $15
+CREATE VIEW "$15 Budget Wine" AS
+SELECT wine.wine_name AS "Wine Name", wine.price, region.country, merchant_wine.merchant_name,
+merchant.merchant_address
+FROM wine
+INNER JOIN region ON wine.region_id = region.region_id
+INNER JOIN merchant_wine ON wine.wine_id = merchant_wine.wine_id
+INNER JOIN merchant ON merchant_wine.merchant_name = merchant.merchant_name
+WHERE price < 15
+ORDER BY "price" DESC
+LIMIT 50;
+
+SELECT * FROM "$15 Budget Wine";
