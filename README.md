@@ -135,13 +135,15 @@ Give me some examples for the name of Cabernet Sauvignon wines below 10$
 
 Can I see the average varietal price per frequency in your DB? what are the top ten?
 
-![AvgFreq](Images/AvgFreq.jpg)
+![AvgFreq](Images/AvgFreq.JPG)
 
 ------
 
 How the average wine price compare in the US, France and Italy? which one has the highest average value?
 
-![country.jpg](Images/country.jpg)
+![country.jpg](Images/country.JPG)
+
+
 
 ------
 
