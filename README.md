@@ -115,7 +115,11 @@ more_queries.py
 
 Give me some examples for the name of Cabernet Sauvignon wines below 10$
 
-![cab10](Images/cab10.jpg)
+![Cab10](Images/Cab10.JPG)
+
+
+
+
 
 
 
