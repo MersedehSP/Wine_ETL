@@ -1,7 +1,9 @@
---search by wine name
+SELECT varietal FROM wine
+--search by wine varietal
 SELECT wine_name, price, varietal 
 FROM wine
-WHERE wine_name LIKE ('%pino%') ;
+WHERE varietal LIKE ('Cab%') AND price <10
+ORDER BY price DESC;
 
 --search by price 
 
@@ -20,8 +22,8 @@ SELECT w.wine_name, w.price, w.description, w.varietal, m.merchant_name, r.count
 FROM wine AS w
 INNER JOIN merchant_wine AS m ON w.wine_id = m.wine_id
 INNER JOIN region AS r ON w.region_id = r.region_id
-WHERE price <= 10;
-
+WHERE price > 1000 AND varietal LIKE ('Cab%')
+ORDER BY price DESC;
 
 SELECT w.wine_name, w.price, w.description, w.varietal, m.merchant_name, r.country, r.state, r.region, a.merchant_address
 FROM wine AS w
@@ -29,6 +31,19 @@ INNER JOIN merchant_wine AS m ON w.wine_id = m.wine_id
 INNER JOIN region AS r ON w.region_id = r.region_id
 INNER JOIN merchant AS a ON m.merchant_name = a.merchant_name
 WHERE price <= 10;
+
+SELECT w.wine_name, w.price, w.description, w.varietal, m.merchant_name, r.country, r.state, r.region, a.merchant_address
+FROM wine AS w
+INNER JOIN merchant_wine AS m ON w.wine_id = m.wine_id
+INNER JOIN region AS r ON w.region_id = r.region_id
+INNER JOIN merchant AS a ON m.merchant_name = a.merchant_name
+WHERE price > 1000 AND varietal LIKE ('Cab%')
+ORDER BY price DESC;
+
+
+
+
+
 
 
 
