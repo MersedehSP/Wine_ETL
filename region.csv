@@ -1,0 +1,797 @@
+Region_Id,country,region,state
+0,,na,na
+1,Argentina,Cafayate,na
+2,Argentina,Est,na
+3,Argentina,Mendoza,Cuyo
+4,Argentina,Mendoza,Mendoza
+5,Argentina,Mendoza,na
+6,Argentina,Patagonia,Southern Region
+7,Argentina,Rio Negro,Southern Region
+8,Argentina,Salta,Andean North West
+9,Argentina,Salta,na
+10,Argentina,"Uco Valley, Mendoza",na
+11,Argentina,na,Abruzzo
+12,Argentina,na,Aconcagua
+13,Argentina,na,Bordeaux
+14,Argentina,na,Burgundy
+15,Argentina,na,California
+16,Argentina,na,Cuyo
+17,Argentina,na,Loire
+18,Argentina,na,Oregon
+19,Argentina,na,Piedmont
+20,Argentina,na,Rhone
+21,Argentina,na,Wairarapa
+22,Argentina,na,Washington
+23,Argentina,na,na
+24,Australia,Adelaide Hills,South Australia
+25,Australia,Barossa,South Australia
+26,Australia,Barossa Valley,South Australia
+27,Australia,Champagne,Victoria
+28,Australia,Eden Valley,South Australia
+29,Australia,Fleurieu,South Australia
+30,Australia,Great Southern,Western Australia
+31,Australia,Limestone Coast,South Australia
+32,Australia,Mc Laren Vale,South Australia
+33,Australia,Mclaren Vale,South Australia
+34,Australia,Napa Valley,California
+35,Australia,na,Aragon
+36,Australia,na,Bordeaux
+37,Australia,na,Burgundy
+38,Australia,na,California
+39,Australia,na,Campania
+40,Australia,na,Coastal Region
+41,Australia,na,Cuyo
+42,Australia,na,Loire
+43,Australia,na,Oregon
+44,Australia,na,Piedmont
+45,Australia,na,Rhone
+46,Australia,na,Rioja
+47,Australia,na,South Australia
+48,Australia,na,South Eastern Australia
+49,Australia,na,Terras Do Dao
+50,Australia,na,Veneto
+51,Australia,na,Victoria
+52,Australia,na,Washington
+53,Australia,na,na
+54,Austria,Burgenland,Weinland
+55,Austria,Kamptal,Niederosterreich
+56,Austria,Kremstal,Niederosterreich
+57,Austria,Niederosterreich,Weinland
+58,Austria,Wachau,Niederosterreich
+59,Austria,Wachau,na
+60,Austria,na,Burgenland
+61,Austria,na,Niederosterreich
+62,Austria,na,Piedmont
+63,Austria,na,na
+64,Canada,Niagara,Ontario
+65,Canada,Niagara Peninsula,Ontario
+66,Canada,Ontario,na
+67,Chile,Aconcagua Valley,na
+68,Chile,Cachapoal Valley,na
+69,Chile,Casablanca,na
+70,Chile,Casablanca Valley,na
+71,Chile,Cassablanca,na
+72,Chile,Central Valley,na
+73,Chile,Colchagua Valley,na
+74,Chile,Curico Valley,Valle Central
+75,Chile,Elqui,na
+76,Chile,Leyda Valley,Casablanca
+77,Chile,Maipo,Valle Central
+78,Chile,Maipo,na
+79,Chile,Maipo Valley,na
+80,Chile,Maule,na
+81,Chile,Mendoza,na
+82,Chile,Rapel,Valle Central
+83,Chile,Rapel,na
+84,Chile,Rapel Valley,na
+85,Chile,San Antonio Valley,Aconcagua
+86,Chile,na,Aconcagua
+87,Chile,na,Bordeaux
+88,Chile,na,Burgundy
+89,Chile,na,California
+90,Chile,na,Casablanca
+91,Chile,na,Castilla Y Leon
+92,Chile,na,Duriense
+93,Chile,na,Languedoc Roussillon
+94,Chile,na,Maule
+95,Chile,na,Oregon
+96,Chile,na,Piedmont
+97,Chile,na,Rhone
+98,Chile,na,Rioja
+99,Chile,na,Tuscany
+100,Chile,na,Valle Central
+101,Chile,na,Washington
+102,Chile,na,na
+103,Denmark,na,Veneto
+104,Denmark,na,na
+105,England,na,California
+106,England,na,na
+107,England ,West Sussex,na
+108,Finland,na,na
+109,France,Alpes De Haute Provence,Provence
+110,France,Alpilles,Provence
+111,France,Alsace,Alsace
+112,France,Alsace,na
+113,France,Alsace Aop,Alsace
+114,France,Alsace Grand Cru,Alsace
+115,France,Anjou,Loire Valley
+116,France,Anjou-Saumur,Loire
+117,France,Auxey Duresses,Burgundy
+118,France,Bandol,Provence
+119,France,Beaujolais,Beaujolais
+120,France,Beaujolais,Burgundy
+121,France,Beaujolais,na
+122,France,Beaune,Burgundy
+123,France,Bienvenues Batard Montrachet Grand Cru,Burgundy
+124,France,Blaye,Bordeaux
+125,France,Bonnes Mares Grand Cru,Burgundy
+126,France,Bordeaux,Bordeaux
+127,France,Bordeaux,California
+128,France,Bordeaux,na
+129,France,Bordeaux Superieur,Bordeaux
+130,France,Bourgogne,Burgundy
+131,France,Bourgogne Blanc,Burgundy
+132,France,Brouilly,Beaujolais
+133,France,Burgundy,California
+134,France,Burgundy,na
+135,France,Cadillac,Bordeaux
+136,France,Cadillac Côtes De Bordeaux Aop,Bordeaux
+137,France,Cahors,South West France
+138,France,Cahors,Southwest France
+139,France,Castillon,Bordeaux
+140,France,Central Vineyards,Loire
+141,France,Chablis,Burgundy
+142,France,Chambertin Clos De Beze Grand Cru,Burgundy
+143,France,Chambertin Grand Cru,Burgundy
+144,France,Chambolle Musigny,Burgundy
+145,France,Champagne,Champagne
+146,France,Champagne,na
+147,France,Charmes Chambertin Grand Cru,Burgundy
+148,France,Chassagne Montrachet,Burgundy
+149,France,Chateauneuf Du Pape,Southern Rhone
+150,France,Chateauneuf Du Pape,Southern Rhône
+151,France,Chenonceaux,Loire Valley
+152,France,Cheverny,Loire Valley
+153,France,Chinon,Loire Valley
+154,France,Clos De La Roche Grand Cru,Burgundy
+155,France,Clos De Tart Grand Cru,Burgundy
+156,France,Clos De Vougeot Grand Cru,Burgundy
+157,France,Cornas,Northern Rhone
+158,France,Corton,Burgundy
+159,France,Corton Charlemagne Grand Cru,Burgundy
+160,France,Cote Rotie,Northern Rhone
+161,France,Cote de Beaune,Burgundy
+162,France,Cote de Nuits,Burgundy
+163,France,Coteaux D'aix En Provence,Provence
+164,France,Coteaux Du Giennois,Loire Valley
+165,France,Coteaux Varois En Provence,Provence
+166,France,Cotes Catalanes,Languedoc Roussillon
+167,France,Cotes De Bourg,Bordeaux
+168,France,Cotes De Francs,Bordeaux
+169,France,Cotes De Gascogne,Gascony
+170,France,Cotes De Nuits Villages,Burgundy
+171,France,Cotes De Provence,Provence
+172,France,Cotes Du Rhone,Northern Rhone
+173,France,Cotes Du Rhone,Rhone
+174,France,Cotes Du Rhone,Southern Rhone
+175,France,Cotes Du Roussillon,Languedoc Roussillon
+176,France,Cotes de Francs,Bordeaux
+177,France,Cotes de Provence,Provence
+178,France,Cotes du Rhone,Rhone
+179,France,Cremant D'alsace,Alsace
+180,France,Cremant De Bourgogne,Burgundy
+181,France,Cremant De Limoux,Southern France
+182,France,Cremant De Loire,Loire Valley
+183,France,Crmant De Bordeaux,Bordeaux
+184,France,Crozes Hermitage,Northern Rhone
+185,France,Crémant De Bordeaux Aop,Bordeaux
+186,France,Crémant De Loire Aop,Loire Valley
+187,France,Côtes Catalanes Aop,Languedoc Roussillon
+188,France,Entre Deux Mers,Bordeaux
+189,France,Fixin,Burgundy
+190,France,Fleurie,Beaujolais
+191,France,Fleurie,Burgundy
+192,France,Gevrey Chambertin,Burgundy
+193,France,Graves,Bordeaux
+194,France,Haut Medoc,Bordeaux
+195,France,Haut Médoc,Bordeaux
+196,France,Haut Rhin,Alsace
+197,France,Hautes Cotes De Beaune,Burgundy
+198,France,Hautes Cotes Du Nuits,Burgundy
+199,France,Hermitage,Northern Rhone
+200,France,Ile De Beaute,Corsica
+201,France,Ille De Beaute,Corsica
+202,France,Julienas,Beaujolais
+203,France,La Clape,Languedoc Roussillon
+204,France,Lalande De Pomerol,Bordeaux
+205,France,Languedoc,Languedoc Roussillon
+206,France,Languedoc,na
+207,France,Loire Valley,na
+208,France,Luberon,Southern Rhone
+209,France,Macon,Burgundy
+210,France,Maconnais,Burgundy
+211,France,Margaux,Bordeaux
+212,France,Marsannay,Burgundy
+213,France,Medoc,Bordeaux
+214,France,Menetou Salon,Loire Valley
+215,France,Mercurey,Burgundy
+216,France,Meursault,Burgundy
+217,France,Montagne Saint Emilion,Bordeaux
+218,France,Montagny,Burgundy
+219,France,Morey Saint Denis,Burgundy
+220,France,Morgon,Beaujolais
+221,France,Moulin A Vent,na
+222,France,Muscadet,Loire
+223,France,Muscadet,Loire Valley
+224,France,Musigny Grand Cru,Burgundy
+225,France,Northern Rhone,Rhone
+226,France,Nuits Saint Georges,Burgundy
+227,France,Oc,Languedoc Roussillon
+228,France,Pauillac,Bordeaux
+229,France,Pays D'oc,Languedoc Roussillon
+230,France,Pays Du Gard,Provence
+231,France,Pessac Leognan,Bordeaux
+232,France,Pessac Léognan,Bordeaux
+233,France,Picpoul De Pinet,Languedoc Roussillon
+234,France,Pomerol,Bordeaux
+235,France,Pomerol,Burgundy
+236,France,Pommard,Burgundy
+237,France,Pouilly Fuisse,Burgundy
+238,France,Pouilly Fume,Loire Valley
+239,France,Provence,Provence
+240,France,Provence,na
+241,France,Puligny Montrachet,Burgundy
+242,France,Rasteau,Southern Rhone
+243,France,Regnie,Beaujolais
+244,France,Rhône Valley,na
+245,France,Roussillon,Languedoc Roussillon
+246,France,Ruchottes Chambertin Grand Cru,Burgundy
+247,France,Rully,Burgundy
+248,France,Sable De Camargue,Languedoc Roussillon
+249,France,Saint Amour,Beaujolais
+250,France,Saint Emilion,Bordeaux
+251,France,Saint Estephe,Bordeaux
+252,France,Saint Georges Saint Emilion,Bordeaux
+253,France,Saint Joseph,Northern Rhone
+254,France,Saint Julien,Bordeaux
+255,France,Saint Peray,Northern Rhone
+256,France,Saint Veran,Burgundy
+257,France,Sancerre,Loire Valley
+258,France,Santenay,Burgundy
+259,France,Saumur,Loire Valley
+260,France,Saumur Champigny,Loire Valley
+261,France,Saumur Champigny Aop,Loire Valley
+262,France,Sauternes,Bordeaux
+263,France,Southern Rhone,Rhone
+264,France,Southern Rhone,na
+265,France,Touraine,Loire
+266,France,Touraine,Loire Valley
+267,France,Vacqueyras,Southern Rhone
+268,France,Vallee de la Marne,Champagne
+269,France,Var,Provence
+270,France,Varois En Provence,Provence
+271,France,Ventoux,Southern Rhone
+272,France,Vin De France,Northern Rhone
+273,France,Vin De France,Southern Rhone
+274,France,Vin De France,Vin De France
+275,France,Vin De Pays D'oc,Languedoc Roussillon
+276,France,Vin De Savoie,Savoie
+277,France,Vin de Pays de L`Ardeche,Rhone
+278,France,Volnay,Burgundy
+279,France,Vouvray,Loire Valley
+280,France,na,Alsace
+281,France,na,Bordeaux
+282,France,na,Burgundy
+283,France,na,California
+284,France,na,Castilla Y Leon
+285,France,na,Champagne
+286,France,na,Coastal Region
+287,France,na,Corsica
+288,France,na,Galilee
+289,France,na,Languedoc Roussillon
+290,France,na,Loire
+291,France,na,Oregon
+292,France,na,Provence
+293,France,na,Rhone
+294,France,na,South Australia
+295,France,na,South West France
+296,France,na,Tuscany
+297,France,na,Vin De France
+298,France,na,Washington
+299,France,na,na
+300,Georgia,Kartli,Georgian Republic
+301,Germany,Lower Mosel,Mosel-Saar-Ruwer
+302,Germany,Mittel Mosel,Mosel-Saar-Ruwer
+303,Germany,Mosel,Mosel
+304,Germany,Mosel,na
+305,Germany,Nahe,na
+306,Germany,Pfalz,na
+307,Germany,Rheingau,na
+308,Germany,Rheinhessen,na
+309,Germany,Rheinterrasse,Rheinhessen
+310,Germany,Wehlener Sonnenuhr,Mosel Valley
+311,Germany,na,Baden
+312,Germany,na,Bordeaux
+313,Germany,na,Burgundy
+314,Germany,na,California
+315,Germany,na,Castilla Y Leon
+316,Germany,na,Cuyo
+317,Germany,na,Jumilla
+318,Germany,na,Mosel Saar Ruwer
+319,Germany,na,Mosel-Saar-Ruwer
+320,Germany,na,Oregon
+321,Germany,na,Pfalz
+322,Germany,na,Piedmont
+323,Germany,na,Primorje
+324,Germany,na,Rheinhessen
+325,Germany,na,Valle Central
+326,Germany,na,Washington
+327,Greece,Achaia,Peloponnesos
+328,Greece,Attica,Sterea Ellada
+329,Greece,Drama,Macedonia
+330,Greece,Mantineia,na
+331,Greece,"Nemea Valley, Corinth, Peloponnese",na
+332,Greece,Pangeon,Macedonia
+333,Greece,Santorini,Cyclades
+334,Greece,na,California
+335,Greece,na,Central Greece
+336,Greece,na,Peloponnesos
+337,Greece,na,Rioja
+338,Greece,na,na
+339,Hungary,Eger,North Hungary
+340,Hungary,Eger,na
+341,Hungary,Tokaj,North Hungary
+342,Israel,Judean Hills,Judea
+343,Israel,Shomron,Galilee
+344,Israel,na,Galilee
+345,Israel,na,na
+346,Israel,Štore,na
+347,Italy,Abruzzo,na
+348,Italy,Acqui,Piedmont
+349,Italy,Alba,Piedmont
+350,Italy,Alba,na
+351,Italy,Alto Adige,Trentino Alto Adige
+352,Italy,Alto Adige,Trentino-Alto Adige
+353,Italy,Alto Adige,na
+354,Italy,Alto Adige - Sudtirol,Trentino-Alto Adige
+355,Italy,Amarone Della Valpolicella,Veneto
+356,Italy,Amarone della Valpolicella,Veneto
+357,Italy,Asti,Piedmont
+358,Italy,Avellino,Campania
+359,Italy,Barbaresco,Piedmont
+360,Italy,Barbera D'asti,Piedmont
+361,Italy,Bardolino,Veneto
+362,Italy,Barolo,Piedmont
+363,Italy,Bolgheri,Tuscany
+364,Italy,Brachetto D'acqui,Piedmont
+365,Italy,Breganze,Veneto
+366,Italy,Brunello Di Montalcino,Tuscany
+367,Italy,Brunello di Montalcino,Tuscany
+368,Italy,Campania,Campania
+369,Italy,Campania,na
+370,Italy,Cannonau Di Sardegna,Sardinia
+371,Italy,Cannonau Di Sardegna Doc,Sardinia
+372,Italy,Castel del Monte,Apulia
+373,Italy,Cerasuolo Di Vittoria,Sicily
+374,Italy,Chianti,Tuscany
+375,Italy,Chianti,na
+376,Italy,Chianti Classico,Tuscany
+377,Italy,Ciro,Calabria
+378,Italy,Colli Martani,Umbria
+379,Italy,Colli Orientali,Friuli Venezia Giulia
+380,Italy,Colli Orientali del Friuli,Friuli-Venezia Giulia
+381,Italy,Colli Piacentini,Emilia-Romagna
+382,Italy,Colline Novaresi,Piedmont
+383,Italy,Colline Pescaresi,Abruzzo
+384,Italy,Collio Goriziano,Friuli-Venezia Giulia
+385,Italy,Conegliano Valdobbiadene,Veneto
+386,Italy,Delle Venenzie,Veneto
+387,Italy,Delle Venezie,Veneto
+388,Italy,Dogliani,Piedmont
+389,Italy,Dolcetto d'Alba,Piedmont
+390,Italy,Dolomiti,Trentino Alto Adige
+391,Italy,Emilia,Emilia-Romagna
+392,Italy,Etna,Sicily
+393,Italy,Etna Rosso,Sicily
+394,Italy,Falanghina Del Sannio,Campania
+395,Italy,Fiano Di Avellino,Campania
+396,Italy,Franciacorta,Lombardy
+397,Italy,Frascati,Lazio
+398,Italy,Friuli,Friuli Venezia Giulia
+399,Italy,Friuli,Friuli-Venezia Giulia
+400,Italy,Friuli,na
+401,Italy,Friuli Grave,Friuli Venezia Giulia
+402,Italy,Friuli Grave,Friuli-Venezia Giulia
+403,Italy,Friuli Venezia Giulia,Friuli Venezia Giulia
+404,Italy,Gattinara,Piedmont
+405,Italy,Gavi,Piedmont
+406,Italy,Gavi,Tuscany
+407,Italy,Grave,Friuli Venezia Giulia
+408,Italy,Greco Di Tufo,Campania
+409,Italy,Irpinia,Campania
+410,Italy,Italia,Italy
+411,Italy,Italy,Italy
+412,Italy,Lacryma Christi,Campania
+413,Italy,Lambrusco,Emilia Romagna
+414,Italy,Langhe,Piedmont
+415,Italy,Langhe,na
+416,Italy,Marche,na
+417,Italy,Maremma,Tuscany
+418,Italy,Marsala,Sicily
+419,Italy,Modena,Lombardy
+420,Italy,Monferrato,Piedmont
+421,Italy,Montalcino,Tuscany
+422,Italy,Montecucco,Tuscany
+423,Italy,Montefalco,Umbria
+424,Italy,Montepulciano,Tuscany
+425,Italy,Montepulciano D'abruzzo,Abruzzo
+426,Italy,Montepulciano d'Abruzzo,Abruzzo
+427,Italy,Morellino Di Scansano,Tuscany
+428,Italy,Moscato D'asti,Piedmont
+429,Italy,Moscato d'Asti,Piedmont
+430,Italy,Orvieto,Lazio
+431,Italy,Orvieto,Umbria
+432,Italy,Pantelleria,Sicily
+433,Italy,Pavia,Lombardy
+434,Italy,Pescarese,Abruzzo
+435,Italy,Piave,Veneto
+436,Italy,Piedmont,Piedmont
+437,Italy,Piedmont,na
+438,Italy,Piemonte,Piedmont
+439,Italy,Prosecco,Prosecco
+440,Italy,Prosecco,Veneto
+441,Italy,Prosecco Di Valdobbiadene Superiore,Prosecco
+442,Italy,Prosecco Superiore Di Valdobbiadene,Prosecco
+443,Italy,Prosecco Superiore Di Valdobbiadene,Veneto
+444,Italy,Provincia Di Pavia,Lombardy
+445,Italy,Puglia,Puglia
+446,Italy,Roero,Piedmont
+447,Italy,Romagna,Emilia Romagna
+448,Italy,Rosso Di Montalcino,Tuscany
+449,Italy,Rosso Di Montepulciano,Tuscany
+450,Italy,Rosso di Montalcino,Tuscany
+451,Italy,Ruche Di Castagnole Monferrato,Pidemont
+452,Italy,Salento,Puglia
+453,Italy,Salice Salentino,Apulia
+454,Italy,Scansano,Tuscany
+455,Italy,Sicilia,Sicily
+456,Italy,Sicily,na
+457,Italy,Soave,Veneto
+458,Italy,Sudtirol,Trentino Alto Adige
+459,Italy,Terre Degli Osci,Molise
+460,Italy,Toscana,Tuscany
+461,Italy,Toscano,Tuscany
+462,Italy,Trentino,Trentino
+463,Italy,Trentino,Trentino Alto Adige
+464,Italy,Trentino,Trentino-Alto Adige
+465,Italy,Trento,Trentino Alto Adige
+466,Italy,Trevenezie,Trentino Alto Adige
+467,Italy,Trevenezie,Trentino-Alto Adige
+468,Italy,Treviso,Veneto
+469,Italy,Tuscany,na
+470,Italy,Umbria,na
+471,Italy,Valdadige,Trentino Alto Adige
+472,Italy,Valdobbiadene Prosecco Superiore,Prosecco
+473,Italy,Valle D'aosta,na
+474,Italy,Valle Isarco,Trentino Alto Adige
+475,Italy,Valpolicella,Veneto
+476,Italy,Valpolicella Classico,Veneto
+477,Italy,Valpolicella Ripasso,Veneto
+478,Italy,Valtellina,Lombardy
+479,Italy,Valtellina Superiore Doc,Piedmont
+480,Italy,Veneto,Lombardy
+481,Italy,Veneto,Trentino Alto Adige
+482,Italy,Veneto,Veneto
+483,Italy,Veneto,na
+484,Italy,Venezia,Veneto
+485,Italy,Venezia Giulia,Friuli Venezia Giulia
+486,Italy,Venezie,Veneto
+487,Italy,Verdicchio Di Matelica,Marche
+488,Italy,Vermentino Di Sardegna,Sardinia
+489,Italy,Vermentino di Sardegna,Sardinia
+490,Italy,Veronese,Veneto
+491,Italy,Vigneti Delle Dolomiti,Trentino Alto Adige
+492,Italy,Vigneti delle Dolomiti,Trentino-Alto Adige
+493,Italy,Vin Santo Del Chianti Classico,Tuscany
+494,Italy,Vin Santo Del Chianti Ruffina Occhio Di Pernice Doc,Tuscany
+495,Italy,Vino Nobile Di Montepulciano,Tuscany
+496,Italy,delle Venezie,Veneto
+497,Italy,na,Abruzzo
+498,Italy,na,Apulia
+499,Italy,na,Bordeaux
+500,Italy,na,California
+501,Italy,na,Campania
+502,Italy,na,Coastal Region
+503,Italy,na,Cuyo
+504,Italy,na,Duriense
+505,Italy,na,Emilia Romagna
+506,Italy,na,Emilia-Romagna
+507,Italy,na,Friuli-Venezia Giulia
+508,Italy,na,Italy
+509,Italy,na,Lazio
+510,Italy,na,Loire
+511,Italy,na,Marche
+512,Italy,na,Mosel-Saar-Ruwer
+513,Italy,na,Piedmont
+514,Italy,na,Provence
+515,Italy,na,Rhone
+516,Italy,na,Sardinia
+517,Italy,na,Sicily
+518,Italy,na,South Australia
+519,Italy,na,Tuscany
+520,Italy,na,Umbria
+521,Italy,na,Veneto
+522,Italy,na,Washington
+523,Italy,na,na
+524,Japan,na,Akita
+525,Japan,na,Bordeaux
+526,Japan,na,California
+527,Japan,na,Hyogo
+528,Japan,na,Ibaraki
+529,Japan,na,Kyoto
+530,Japan,na,Loire
+531,Japan,na,New York
+532,Japan,na,Rioja
+533,Japan,na,Washington
+534,Japan,na,na
+535,Lebanon,Béqaa Valley,na
+536,Netherlands,na,na
+537,New Zealand,Hawke's Bay,na
+538,New Zealand,Marlborough,na
+539,New Zealand,Martinborough,Wairarapa
+540,New Zealand,Martinborough,na
+541,New Zealand,South Island,na
+542,New Zealand,Wairarapa,na
+543,New Zealand,Wairau River,Marlborough
+544,New Zealand,na,Aconcagua
+545,New Zealand,na,Alsace
+546,New Zealand,na,Bordeaux
+547,New Zealand,na,Burgundy
+548,New Zealand,na,California
+549,New Zealand,na,Catalunya
+550,New Zealand,na,Central Otago
+551,New Zealand,na,Friuli-Venezia Giulia
+552,New Zealand,na,Hawkes Bay
+553,New Zealand,na,Loire
+554,New Zealand,na,Marlborough
+555,New Zealand,na,Rhone
+556,New Zealand,na,South Australia
+557,New Zealand,na,Tuscany
+558,New Zealand,na,Washington
+559,New Zealand,na,na
+560,Other Europe,na,na
+561,Poland,na,na
+562,Portugal,Alentejo,na
+563,Portugal,Cortés,na
+564,Portugal,Dao,Terras Do Dao
+565,Portugal,Dao,na
+566,Portugal,Douro,na
+567,Portugal,Douro - Porto,Duriense
+568,Portugal,Lisboa,na
+569,Portugal,Madeira,na
+570,Portugal,Madeira - Madeirense,Terras Madeirenses
+571,Portugal,Palmela,Peninsula de Setubal
+572,Portugal,Penninsula De Setubal,na
+573,Portugal,Port,na
+574,Portugal,Porto,na
+575,Portugal,Vinho Verde,Minho
+576,Portugal,Vinho Verde,na
+577,Portugal,na,Abruzzo
+578,Portugal,na,Alentejano
+579,Portugal,na,Beiras
+580,Portugal,na,Bordeaux
+581,Portugal,na,Burgundy
+582,Portugal,na,California
+583,Portugal,na,Campania
+584,Portugal,na,Cuyo
+585,Portugal,na,Douro
+586,Portugal,na,Duriense
+587,Portugal,na,Lisboa
+588,Portugal,na,Loire
+589,Portugal,na,Oregon
+590,Portugal,na,Peninsula de Setubal
+591,Portugal,na,Piedmont
+592,Portugal,na,Provence
+593,Portugal,na,Rhone
+594,Portugal,na,Tejo
+595,Portugal,na,Tuscany
+596,Portugal,na,Washington
+597,Portugal,na,na
+598,Romania,Alba,New Jersey
+599,Romania,na,Transylvania
+600,Slovenia,Brda,Primorje
+601,Slovenia,na,Burgundy
+602,South Africa,Coastal Region,Western Cape
+603,South Africa,Constantia,Western Cape
+604,South Africa,Franschhoek,Western Cape
+605,South Africa,Hemel En Aarde,Cape South Coast
+606,South Africa,Paarl,Coastal Region
+607,South Africa,Paarl,Western Cape
+608,South Africa,Robertson,Western Cape
+609,South Africa,Roodeberg,Western Cape
+610,South Africa,Stellenbosch,Coastal Region
+611,South Africa,Stellenbosch,Western Cape
+612,South Africa,Swartland,Coastal Region
+613,South Africa,Swartland,Western Cape
+614,South Africa,Walker Bay,Cape South Coast
+615,South Africa,Walker Bay,Overberg
+616,South Africa,Western Cape,na
+617,South Africa,na,Alsace
+618,South Africa,na,Burgundy
+619,South Africa,na,California
+620,South Africa,na,Coastal Region
+621,South Africa,na,Cuyo
+622,South Africa,na,Duriense
+623,South Africa,na,Loire
+624,South Africa,na,New York
+625,South Africa,na,Oregon
+626,South Africa,na,Piedmont
+627,South Africa,na,Provence
+628,South Africa,na,Rhone
+629,South Africa,na,Tuscany
+630,South Africa,na,Washington
+631,South Africa,na,Western Cape
+632,South Africa,na,na
+633,Spain,Alicante,na
+634,Spain,Almansa,Castilla La Mancha
+635,Spain,Almansa,na
+636,Spain,Andalucía,na
+637,Spain,Aragon,na
+638,Spain,Bierzo,Castilla Y Leon
+639,Spain,Bierzo,na
+640,Spain,Bizkaiko Txakolina,Pais Vasco
+641,Spain,Calatayud,Aragon
+642,Spain,Calatayud,na
+643,Spain,Campo De Borja,na
+644,Spain,Campo de Borja,Aragon
+645,Spain,Carinena,Aragon
+646,Spain,Carinena,na
+647,Spain,Castilla La Mancha,na
+648,Spain,Castilla Y Leon,na
+649,Spain,Catalunya,na
+650,Spain,Catalyud,na
+651,Spain,Cava,Catalunya
+652,Spain,Cava,na
+653,Spain,Getaria,na
+654,Spain,Jerez,na
+655,Spain,Jumilla,na
+656,Spain,La Mancha,Castilla La Mancha
+657,Spain,Madrid,na
+658,Spain,Manchuela,na
+659,Spain,Manzanilla Sanlucar de Barrame,Jerez - Xeres - Sherry
+660,Spain,Monsant,na
+661,Spain,Montsant,Catalunya
+662,Spain,Montsant,na
+663,Spain,Priorat,Catalonia
+664,Spain,Priorat,Catalunya
+665,Spain,Rias Baixas,Galicia
+666,Spain,Rias Baixas,na
+667,Spain,Ribeira Sacra,na
+668,Spain,Ribera Del Duero,Castilla Y Leon
+669,Spain,Ribera Del Duero,na
+670,Spain,Ribera Del Jucar,na
+671,Spain,Ribera del Duero,Castilla Y Leon
+672,Spain,Rioja,na
+673,Spain,Rioja Alavesa,Rioja
+674,Spain,Rioja Alta,Rioja
+675,Spain,Rueda,Castilla Y Leon
+676,Spain,Rueda,na
+677,Spain,Sanlucar De Barrameda,na
+678,Spain,Sardon De Duero,Castilla Y Leon
+679,Spain,Tierra De Castilla,na
+680,Spain,Toro,Castilla Y Leon
+681,Spain,Toro,na
+682,Spain,Utiel-Requena,Valencia
+683,Spain,Valdeorras,Galicia
+684,Spain,Valle de la Orotava,Canarias
+685,Spain,Yecla,na
+686,Spain,na,Alsace
+687,Spain,na,Bordeaux
+688,Spain,na,Burgundy
+689,Spain,na,California
+690,Spain,na,Castilla La Mancha
+691,Spain,na,Castilla Y Leon
+692,Spain,na,Jerez
+693,Spain,na,Jerez - Xeres - Sherry
+694,Spain,na,Jumilla
+695,Spain,na,Loire
+696,Spain,na,Madrid
+697,Spain,na,Oregon
+698,Spain,na,Piedmont
+699,Spain,na,Rhone
+700,Spain,na,Rioja
+701,Spain,na,Spain
+702,Spain,na,Tuscany
+703,Spain,na,Valencia
+704,Spain,na,Washington
+705,Spain,na,na
+706,Sparkling,na,na
+707,Still wine,na,na
+708,Switzerland,Valais,na
+709,United Kingdom,Down,California
+710,United Kingdom,England,na
+711,United States,Alameda County,California
+712,United States,Alexander Valley,California
+713,United States,Anderson Valley,California
+714,United States,Brooklyn,New York
+715,United States,California,California
+716,United States,Carneros,California
+717,United States,Carneros,Sonoma County
+718,United States,Central Coast,California
+719,United States,"Central Coast, Santa Barbara And Monterey Counties",California
+720,United States,Central New York,New York
+721,United States,Central Valley,California
+722,United States,Columbia Valley,California
+723,United States,Columbia Valley,Washington
+724,United States,Contra Costa County,California
+725,United States,Down,California
+726,United States,Dry Creek Valley,California
+727,United States,Eola Amity Hills,Oregon
+728,United States,Finger Lakes,New York
+729,United States,Highlands,California
+730,United States,Horse Heaven Hills,Washington
+731,United States,Hudson Valley,New York
+732,United States,Humboldt County,California
+733,United States,Knights Valley,California
+734,United States,Lake County,California
+735,United States,Livermore Valley,California
+736,United States,Lodi,California
+737,United States,Long Island,New York
+738,United States,Marsala,California
+739,United States,Mendocino,California
+740,United States,Mendocino County,California
+741,United States,Monterey County,California
+742,United States,Monticello,Virginia
+743,United States,Mosel,California
+744,United States,Napa County,California
+745,United States,Napa Valley,California
+746,United States,Napa Valley   St. Helena Ava,California
+747,United States,Napa Valley And Central Coast,California
+748,United States,Napa Valley Ava,California
+749,United States,Napa Valley Coombsville Ava,California
+750,United States,Napa Valley Rutherford Ava,California
+751,United States,"Napa Valley, Coombsville",California
+752,United States,"Napa Valley, Coombsville Ava",California
+753,United States,"Napa Valley, Mount Veeder Ava",California
+754,United States,"Napa Valley, Pnv",California
+755,United States,North Coast,California
+756,United States,North Willamette,Oregon
+757,United States,Paso Robles,California
+758,United States,Paso Robles Ava,California
+759,United States,Rogue Valley,Oregon
+760,United States,Russian River Valley,California
+761,United States,San Luis Obispo,California
+762,United States,Santa Barbara,California
+763,United States,Santa Barbara And Monterey Counties,California
+764,United States,Santa Barbara County,California
+765,United States,Santa Clara Valley,California
+766,United States,Santa Lucia Highlands,California
+767,United States,Santa Maria Valley,California
+768,United States,Santa Ynez Valley,California
+769,United States,Sierra Foothills,California
+770,United States,Sierra Nevada,California
+771,United States,Sonoma,California
+772,United States,Sonoma Coast,California
+773,United States,Sonoma County,California
+774,United States,Sonoma County ,California
+775,United States,Sonoma Valley,California
+776,United States,Sta Rita Hills,California
+777,United States,Walla Walla,Washington
+778,United States,Walla Walla Valley,Washington
+779,United States,Warren Hills,New Jersey
+780,United States,Willamette,Oregon
+781,United States,Willamette Valley,Oregon
+782,United States,Yolo County,California
+783,United States,na,California
+784,United States,na,Colorado
+785,United States,na,Michigan
+786,United States,na,New Jersey
+787,United States,na,New Mexico
+788,United States,na,New York
+789,United States,na,Oregon
+790,United States,na,Puerto Rico
+791,United States,na,Washington
+792,United States,na,na
+793,Uruguay,na,na
+794,na,Carneros,California
+795,na,na,na
