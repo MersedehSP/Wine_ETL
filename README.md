@@ -2,7 +2,7 @@
 
 
 
-#### ![wine1](C:\Users\merse\Documents\Wine_ETL\Images\wine1.jpg)
+#### ![wine1](Images\wine1.jpg)
 
 #### Extract:
 
@@ -61,6 +61,10 @@ petrockswine.ipynb
 bottleking_scraper.ipynb
 
 - ​	produces: chathambottlekingcleaned.csv
+
+  
+
+- 
 
 **Step2-** run the following notebook:
 
