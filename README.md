@@ -117,11 +117,15 @@ Give me some examples for the name of Cabernet Sauvignon wines below 10$
 
 ![cab10](Images/cab10.jpg)
 
+
+
 ------
 
  What are the most expensive Cabernet Sauvignon wines are in the DB? give me the full information.
 
-<img src="Images/ExpCab.jpg" alt="ExpCab" style="zoom: 200%;" />
+![ExpCab](Images/ExpCab.JPG)
+
+
 
 ------
 
